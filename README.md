@@ -15,4 +15,4 @@
 
 ## URL
 (ゲームの公開場所)
-https://unityroom.com/games/nic0movie_neg
+https://unityroom.com/games/bombshark_vs_spaceship
